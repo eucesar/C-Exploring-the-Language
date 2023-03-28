@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\bin\Debug\net6.0\1-Declaração.exe
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\bin\Debug\net6.0\1-Declaração.deps.json
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\bin\Debug\net6.0\1-Declaração.runtimeconfig.json
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\bin\Debug\net6.0\1-Declaração.dll
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\bin\Debug\net6.0\1-Declaração.pdb
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.dll
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\refint\1-Declaração.dll
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.pdb
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\1-Declaração.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Programa\ConsoleApp1\obj\Debug\net6.0\ref\1-Declaração.dll

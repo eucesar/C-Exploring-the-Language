@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\bin\Debug\net6.0\6-AtribuicaoDeVariaveis.exe
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\bin\Debug\net6.0\6-AtribuicaoDeVariaveis.deps.json
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\bin\Debug\net6.0\6-AtribuicaoDeVariaveis.runtimeconfig.json
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\bin\Debug\net6.0\6-AtribuicaoDeVariaveis.dll
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\bin\Debug\net6.0\6-AtribuicaoDeVariaveis.pdb
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.dll
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\refint\6-AtribuicaoDeVariaveis.dll
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.pdb
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\6-AtribuicaoDeVariaveis.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Programa\6-AtribuicaoDeVariaveis\obj\Debug\net6.0\ref\6-AtribuicaoDeVariaveis.dll

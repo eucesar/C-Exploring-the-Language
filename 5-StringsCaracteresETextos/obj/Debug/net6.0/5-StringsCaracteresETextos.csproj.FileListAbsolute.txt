@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\bin\Debug\net6.0\5-StringsCaracteresETextos.exe
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\bin\Debug\net6.0\5-StringsCaracteresETextos.deps.json
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\bin\Debug\net6.0\5-StringsCaracteresETextos.runtimeconfig.json
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\bin\Debug\net6.0\5-StringsCaracteresETextos.dll
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\bin\Debug\net6.0\5-StringsCaracteresETextos.pdb
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.dll
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\refint\5-StringsCaracteresETextos.dll
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.pdb
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\5-StringsCaracteresETextos.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Programa\5-StringsCaracteresETextos\obj\Debug\net6.0\ref\5-StringsCaracteresETextos.dll
