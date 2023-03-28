@@ -1,11 +1,9 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-  <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cesar-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cesar-C#" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </p>
 
-> ✍️ - I compiled and run C# code. I learned to use Visual Studio. Know Variables and flow control. I understood about conditionals and repeating loops. Know the main types of C#. I created the site using the Alura course.
+> ✍️ - I compiled and run C# code. I learned to use Visual Studio. Know Variables and flow control. I understood about conditionals and repeating loops. Know the main types of C#. I created this project using the Alura course.
 
 ## Download
 
