@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> ✍️ - I developed a responsive menu in the "header" of a website when adapted to mobile, just for practice. I created the site using the Alura course.
+> ✍️ - I compiled and run C# code. I learned to use Visual Studio. Know Variables and flow control. I understood about conditionals and repeating loops. Know the main types of C#. I created the site using the Alura course.
 
 ## Download
 
